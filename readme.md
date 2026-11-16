@@ -35,3 +35,27 @@ terraform destroy
 ## Autor
 
 Juan Sebastian Galeano Guerrero
+
+### Certificaciones
+
+**☁️ AWS**
+- AWS Certified Solutions Architect – Associate
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+
+**☁️ MICROSOFT**
+- AZ-900: Microsoft Azure Fundamentals
+
+**🔵 IBM Cloud**
+- IBM Certified Professional Architect v6 PLUS IBM Professional Cloud Developer v6
+- IBM Certified Professional Architect v6 PLUS IBM Professional Cloud SRE v2
+- IBM Certified Professional Architect - Cloud v6
+
+### Formación
+- **Ingeniería de Sistemas** — Politécnico Grancolombiano (2026)
+- **Tecnólogo en Desarrollo de Software**
+
+### Contacto
+📧 **juansegaleanog@gmail.com**
+💻 **GitHub:** [juanseDev31](https://github.com/juanseDev31)
+💼 **LinkedIn:** [Juan Sebastian Galeano](https://www.linkedin.com/in/)
